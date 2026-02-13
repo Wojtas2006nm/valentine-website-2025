@@ -30,7 +30,7 @@ const CONFIG = {
         second: {
             text: "Jak bardzo mnie kochasz?",                          // For the love meter
             startText: "Tak bardzo!",                                   // Text before the percentage
-            nextBtn: "Next ❤️"                                         // Text for the next button
+            nextBtn: "Dalej ❤️"                                         // Text for the next button
         },
         third: {
             text: "Czy zostaniesz moją walentynką?? 🌹", // The big question!
